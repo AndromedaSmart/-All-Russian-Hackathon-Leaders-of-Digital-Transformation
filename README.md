@@ -7,5 +7,6 @@
 ### Полезные ссылки:
 - Ссылка на основную информацию - https://leaders2022.innoagency.ru/
 - Ссылка на задачи (треки, которые можно было выбрать) - https://leaders2022.innoagency.ru/#tasks
+- Ссылка на макет разработанного отдела "Отраслевой анализ" - https://www.figma.com/file/JX0EOk9uwAa4Z3oWCQdedd/Untitled?node-id=0%3A1&t=3xjBettDXjOq2LHS-0
 - - -
 Все материалы и наработки прикреплены в файлах репозитория.
